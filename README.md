@@ -34,7 +34,7 @@ Make sure you have:
    Pull the project repository:
 
    ```bash
-   git pull https://github.com/your-username/your-project-name.git
+   git pull https://github.com/rsinghbhamra1/codin-2.git
    ```
 
 2. **Build the Docker image**
